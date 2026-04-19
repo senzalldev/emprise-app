@@ -12,8 +12,7 @@
 
 | Platform | Download | Notes |
 |----------|----------|-------|
-| **macOS (Apple Silicon)** | [emprise-darwin-arm64](https://github.com/senzalldev/emprise-app/releases/latest/download/emprise-darwin-arm64) | Signed & notarized |
-| **macOS (Intel)** | [emprise-darwin-amd64](https://github.com/senzalldev/emprise-app/releases/latest/download/emprise-darwin-amd64) | Signed & notarized |
+| **macOS** | [emprise-macos.dmg](https://github.com/senzalldev/emprise-app/releases/latest/download/emprise-macos.dmg) | Apple Silicon, signed & notarized |
 | **Linux (x86_64)** | [emprise-linux-amd64](https://github.com/senzalldev/emprise-app/releases/latest/download/emprise-linux-amd64) | |
 | **Windows (x86_64)** | [emprise-windows-amd64.exe](https://github.com/senzalldev/emprise-app/releases/latest/download/emprise-windows-amd64.exe) | |
 
